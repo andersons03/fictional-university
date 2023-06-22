@@ -1,2 +1,2 @@
 # fictional-university
-tema criado no curso de wordpress
+Tema e plugins criado no curso de wordpress da udemy
